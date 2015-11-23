@@ -1,4 +1,4 @@
 # BouncingBall
-First big project: ball that bounces on button click
+First project: ball that bounces on button click
 
-Open Android Studio and click checkout form version control. Enter the URL that is shown on the side. 
+Click button that says clone in desktop on this page. Open Android Studio and click open existing project. Navigate to where you saved this project to and double-click on the build.gradle.
