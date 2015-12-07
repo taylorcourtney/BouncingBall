@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
 
                 //Phil, here is what happens when someone clicks on the button
 
-
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
